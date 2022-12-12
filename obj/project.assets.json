@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Влад и Аня\\source\\repos\\HomeWorkOOP3\\HomeWorkOOP3.csproj",
+      "projectUniqueName": "C:\\Users\\Влад и Аня\\source\\repos\\HomeWorkOOP3\\HomeWorkOOP3\\HomeWorkOOP3.csproj",
       "projectName": "HomeWorkOOP3",
-      "projectPath": "C:\\Users\\Влад и Аня\\source\\repos\\HomeWorkOOP3\\HomeWorkOOP3.csproj",
+      "projectPath": "C:\\Users\\Влад и Аня\\source\\repos\\HomeWorkOOP3\\HomeWorkOOP3\\HomeWorkOOP3.csproj",
       "packagesPath": "C:\\Users\\Влад и Аня\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Влад и Аня\\source\\repos\\HomeWorkOOP3\\obj\\",
+      "outputPath": "C:\\Users\\Влад и Аня\\source\\repos\\HomeWorkOOP3\\HomeWorkOOP3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Влад и Аня\\AppData\\Roaming\\NuGet\\NuGet.Config",
